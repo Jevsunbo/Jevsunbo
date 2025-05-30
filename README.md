@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jevsunbo
 - 👀 I’m interested in ... Learning code!
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently studying ...Computer Science
 - 💞️ I’m looking to collaborate on ...Beginner coding projects
 - 📫 How to reach me ...On insta, X (Twitter), and Facebook @jevsunbo
 - ⚡ Fun fact: ...I love marvel movies
