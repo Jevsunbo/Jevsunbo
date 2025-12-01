@@ -6,7 +6,10 @@ Building cool things and seeing what happens.<br>
 
 I code in HTML, CSS, JavaScript, Python, and C++. I'm currently learning full-stack development.<br>
 
-I like building things behind the scenes...like my current project, a customer facing application that will soon have real users.<br><br></p>
+I like building things just out of my comfort zone, so I'm constantly improving. I am currently working on a customer-facing application that will use user authentication, 
+user profiles, CRUD operations, and error handling.<br></p>
+
+<p> You can reach me through my LinkedIn or my email @jevsunbo04@gmail.com</p>
 
 <h3> <strong>Fun Facts:</strong></h3>
 <p>
