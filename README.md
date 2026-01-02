@@ -1,27 +1,38 @@
-<h3>Hellooo!👋</h3>
+<header>
+  <hgroup>
+  <h3>Hellooo!👋</h3>
+  <p>I'm <a href="https://jevsunbo.netlify.app/" target="_blank">Jeremiah</a>, a computer science student @UNLV, welcome to my Github page!</p>
+  </hgroup>
+</header>
+<main>
+<p>Building cool things and seeing what happens.</p>
+  
+<p>I code in HTML, CSS, JavaScript, Java, Python, and C++.</p>
+  
+<p>I like building things just out of my comfort zone, so I'm constantly improving. I am currently working on a customer-facing application that will use user authentication, 
+user profiles, CRUD operations, and error handling.</p>
 
-<p>I'm <a href="https://jevsunbo.netlify.app/" >Jeremiah</a>, a computer science student @UNLV, welcome to my Github page!<br>
-
-Building cool things and seeing what happens.<br>
-
-I code in HTML, CSS, JavaScript, Python, and C++. I'm currently learning full-stack development.<br>
-
-I like building things just out of my comfort zone, so I'm constantly improving. I am currently working on a customer-facing application that will use user authentication, 
-user profiles, CRUD operations, and error handling.<br></p>
-
-<p> You can reach me through my LinkedIn or my email @jevsunbo04@gmail.com</p>
+<p>You can reach me through my <a href="https://www.linkedin.com/in/jeremiah-velasquez-a78ba4294/" target="_blank">LinkedIn</a> or my <a href="jevsunbo04@gmail.com" target="_blank">email</a>.</p>
 
 <h3> <strong>Fun Facts:</strong></h3>
-<p>
-- I like watching anime!
-- I'm currently learning two different languages
-- I love consistently improving
-- I'm always open to trying new things<br><br>
-</p>
-
+  <ul> 
+    <li>I like watching anime!</li>
+    <li>I'm currently learning two different languages.</li>
+    <li>I love consistently improving.</li>
+    <li>I'm always open to trying new things.</li>
+  </ul>
 <h3><strong>Hobbies:</strong></h3>
-- I like going to the gym, watching TV, planning my days, and eating sushi.
-
+I like...
+<ul>
+  <li>going to the gym.</li>
+  <li>eating sushi.</li>
+  <li>reading.</li>
+  <li>exploring every opportinity.</li>
+</ul>
+</main>
+<footer>
+  <p>© 2026 by Jeremiah&nbsp;Velasquez</p>
+</footer>
 
 <!---
 Jevsunbo/Jevsunbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
