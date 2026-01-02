@@ -9,7 +9,7 @@
   
 <p>I code in HTML, CSS, JavaScript, Java, Python, and C++.</p>
   
-<p>I like building things just out of my comfort zone, so I'm constantly improving. I am currently working on a customer-facing application that will use user authentication, 
+<p>I like building things just out of my comfort zone so I'm constantly improving. I am currently working on a customer-facing application that will use user authentication, 
 user profiles, CRUD operations, and error handling.</p>
 
 <p>You can reach me through my <a href="https://www.linkedin.com/in/jeremiah-velasquez-a78ba4294/" target="_blank">LinkedIn</a> or my <a href="jevsunbo04@gmail.com" target="_blank">email</a>.</p>
