@@ -5,7 +5,7 @@
   </hgroup>
 </header>
 <main>
-<p>Building cool things and seeing what happens.</p>
+<p>I'm building cool things and seeing what happens.</p>
   
 <p>I code in HTML, CSS, JavaScript, Java, Python, and C++.</p>
   
