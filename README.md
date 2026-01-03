@@ -27,7 +27,7 @@ I like...
   <li>going to the gym.</li>
   <li>eating sushi.</li>
   <li>reading.</li>
-  <li>exploring every opportinity.</li>
+  <li>exploring every opportunity.</li>
 </ul>
 </main>
 <footer>
