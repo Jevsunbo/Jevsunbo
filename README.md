@@ -18,7 +18,7 @@ user profiles, CRUD operations, and error handling.</p>
   <ul> 
     <li>I like watching anime!</li>
     <li>I'm currently learning two languages.</li>
-    <li>I love consistently improving.</li>
+    <li>I love consistently learning.</li>
     <li>I'm always open to trying new things.</li>
   </ul>
 <h3><strong>Hobbies:</strong></h3>
